@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{BD9AD660-5869-4137-847B-F2F62C0200A0}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="backend/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="backend/entities/ProductEntity.cs" />
+      <File FileName="backend/Context/ApplicationDbContext.cs" />
+      <File FileName="backend/appsettings.json" />
+      <File FileName="backend/Properties/launchSettings.json" />
+      <File FileName="backend/Program.cs" />
+      <File FileName="backend/Controllers/ProductsController.cs" Line="55" Column="9" />
+      <File FileName="backend/DTO/CreateUpdateProductDTO.cs" />
+      <File FileName="backend/Models/CreateUpdateProductId.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="backend" expanded="True">
+            <Node name="backend">
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
+              <Node name="DTO" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
